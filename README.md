@@ -40,4 +40,4 @@ Tools
 ---
 
 ## Contact
-[LinkedIn: https://linkedin.com/in/yourname](https://www.linkedin.com/in/jonas-bjerregaard-pedersen-27b045290/)
+[LinkedIn](https://www.linkedin.com/in/jonas-bjerregaard-pedersen-27b045290/)
