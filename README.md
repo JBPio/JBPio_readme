@@ -35,9 +35,3 @@ Engines
 
 Tools  
 - Git • VS Code
-
-
----
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/jonas-bjerregaard-pedersen-27b045290/)
